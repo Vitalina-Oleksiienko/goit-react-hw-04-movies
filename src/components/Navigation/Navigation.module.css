@@ -1,0 +1,10 @@
+.link {
+  display: inline-block;
+  color: black;
+  margin: 10px;
+  text-decoration: none;
+}
+.activeLink {
+  color: blue;
+  text-decoration: none;
+}
