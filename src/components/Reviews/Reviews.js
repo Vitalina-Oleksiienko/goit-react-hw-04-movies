@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { useState, useEffect } from 'react';
-//import styles from './Reviews.module.css';
+import styles from './Reviews.module.css';
 
 export default function Reviews({ movieId }) {
   const api_key = '?api_key=c65fb4b4036e2137b5346647b44aa2c0';
