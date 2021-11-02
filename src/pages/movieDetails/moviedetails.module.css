@@ -11,7 +11,6 @@
   display: block;
   margin-top: 10px;
   width: 250px;
-  /* height: 350px; */
   object-fit: cover;
 }
 .button {
@@ -19,7 +18,7 @@
   width: 80px;
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #81c05a;
+  background-color: #57d10a;
   color: white;
 
   font-size: 16px;
@@ -30,7 +29,7 @@
 }
 .button:hover,
 .button:focus {
-  background-color: #43990e;
+  background-color: green;
 }
 .textCont {
   padding-top: 80px;
